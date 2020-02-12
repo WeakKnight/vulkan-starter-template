@@ -9,5 +9,5 @@ This is a template project for Vulkan, intended as a starting point for Vulkan t
 3. Make sure you have CMake 3.1+ installed
 4. Make sure you have the latest version Visual Studio or Xcode installed
 5. > python build.py
-6. project will be generated in build/macos or build/windows
-7. feel free to edit CMakeLists.txt
+6. Project will be generated in build/macos or build/windows
+7. Feel free to edit CMakeLists.txt as you want
